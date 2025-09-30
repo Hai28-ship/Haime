@@ -1,9 +1,10 @@
-# My Portfolio Site
+# My Portfolio
 
-This is my personal portfolio hosted on GitHub Pages.
+Welcome to my portfolio! This site showcases my projects.
 
-## About
-This site showcases my projects, skills, and experience. It is a live site hosted directly from GitHub.
+## Technologies
+- HTML, CSS, JavaScript
+- GitHub Pages
 
-## View Site
-Visit my live site here: https://<Hai28_ship>.github.io
+## Live Site
+[View my portfolio](https://Hai28-ship.github.io/Haime/)
